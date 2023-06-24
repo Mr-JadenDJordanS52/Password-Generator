@@ -7,4 +7,4 @@ I wanted to properly change this code so that the user could generate a unique 8
 [![Screenshot-701-2.png](https://i.postimg.cc/brNm5r1q/Screenshot-701-2.png)](https://postimg.cc/47qv7J80)
 
 ## Features
-Link to live site: 
+Link to live site: https://mr-jadendjordans52.github.io/Password-Generator/
